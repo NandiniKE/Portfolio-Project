@@ -12,6 +12,16 @@ the following form: YYYY.0M.0D.
 
 ## [2026.11.13]
 
+### Added\*\*
+
+- Designed a proof of concept for MusicPlaylist component
+
+### Updated
+
+- Changed design to include a Sequence<String> to store songs in the playlist
+
+## [2026.11.13]
+
 ### Added
 
 - Designed a MusicPlaylist component
