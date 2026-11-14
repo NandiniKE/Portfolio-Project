@@ -10,6 +10,14 @@ the following form: YYYY.0M.0D.
 
 - Fixed an issue where the course URLs dropped the `web-sw1` paths
 
+## [2026.11.13]
+
+### Added
+
+- Designed a MusicPlaylist component
+- Designed a StudyTimer component
+- Designed a HabitTracker component
+
 ## [2026.07.06]
 
 ### Added
